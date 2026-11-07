@@ -1,0 +1,14 @@
+Order ID, Order Date ,Customer,Email,Product,Quantity,Unit Price,Status
+1001,2026-10-01,john smith,John.Smith@example.com,Wireless Mouse,2,$25.00,paid
+1002,10/02/2026,  MARIA GARCIA ,maria@example.com,USB-C Hub,1,"$1,200.50",Completed
+1003,Oct 03 2026,David Lee,david.lee@example.com,Laptop Stand,3,45,pending
+,,,,,,,
+1004,2026/10/04,emma   brown,EMMA@EXAMPLE.COM,Keyboard,1,89.90,PAID
+1005,10-05-2026,Lucas Silva,lucas@example.com,Monitor 27in,1,"$310.00",Refund
+1003,Oct 03 2026,David Lee,david.lee@example.com,Laptop Stand,3,45,pending
+1006,32/13/2026,Olivia Jones,olivia@example.com,Webcam,2,$59.99,paid
+1007,06 Oct 2026,noah wilson,noah@example.com,Desk Lamp,4,"19,90",canceled
+1008,2026-10-07,Ava Martinez,ava.martinez@example,Headset,1,$75.00,paid
+1009,2026-10-08,Liam Johnson,liam@example.com,Mouse Pad,five,$9.99,paid
+,,,,,,,
+1010,10/09/2026,SOPHIA DAVIS,sophia@example.com,  Wireless   Charger ,2,$29.50,Awaiting Payment
